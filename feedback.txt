@@ -2,8 +2,8 @@ Team Names:
 How many JUnits were you able to get to pass?
 
 Document and describe any enhancements included to help the judges properly grade your submission.
-	Step 1:
-	Step 2: 
+	Step 1: We worked on the first test case (AgentParser)
+	Step 2: We changed USState to make reading more efficient
 	
 	
 Feedback for the coding competition?  Things you would like to see in future events?  
